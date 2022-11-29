@@ -28,4 +28,4 @@ Infelizmente não posso compartilhar o código do relato acima por ter dados sen
 
 ### 📱 CONTATO
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/michel-policeno)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/michel-policeno-85a866212/)
