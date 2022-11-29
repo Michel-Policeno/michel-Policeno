@@ -24,7 +24,7 @@ Infelizmente não posso compartilhar o código do relato acima por ter dados sen
 
 ### ⚡ Projeto - HTML e CSS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-policeno&repo=Michel-Policeno.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-policeno&repo=Michel-Policeno.github.io)](https://github.com/Michel-Policeno/Michel-Policeno.github.io)
 
 ### 📱 CONTATO
 
