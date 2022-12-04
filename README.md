@@ -25,7 +25,6 @@ Infelizmente não posso compartilhar o código do relato acima por possui dados 
 ### ⚡ Projeto - HTML e CSS
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michel-policeno&repo=Michel-Policeno.github.io)](https://github.com/Michel-Policeno/Michel-Policeno.github.io)
-
 ### 📱 CONTATO
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/michel-policeno-85a866212/)
