@@ -9,12 +9,12 @@
 Por necessidade, minha primeira linha de código foi para solucionar uma demanda URGENTE do escrítorio.<br>
 Um trabalho manual e repetitivo que descobri que poderia ser feito com uma biblioteca chamada PUPPETER.<br>
 Separei o problema em pequenas partes e busquei as soluções na documentação da biblioteca e na Comunidade.<br>
-Concluir o desafio (não foi fácil). A recompensa foi descobrir um universo novo e facinante!<br>
-Eu achava que um programar era um escritor de linhas confusas a primeira vista, porém nessa jornada<br>
-entendi que programar na verdade é RESOLVER PROBLEMAS.<br>
+Concluir o desafio (não foi fácil). A recompensa foi descobrir um universo novo e fascinante!<br>
+Eu achava que um programador era um escritor de linhas confusas a primeira vista, porém nessa jornada<br>
+entendi que programar na verdade é <strong>RESOLVER PROBLEMAS</strong>.<br>
 Se eu consigo resolver problemas, logo posso me tornar um programador.
 
-Infelizmente não posso compartilhar o código do relato acima por ter dados sensivél da empresa a qual trabalho.
+Infelizmente não posso compartilhar o código do relato acima por possui dados sensivél da empresa a qual trabalho.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michel-policeno)](https://github.com/anuraghazra/github-readme-stats)
